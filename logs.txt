@@ -1,0 +1,3 @@
+{"level":"info","message":"/api/product/?productID=10&userID=1&rating=5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/product/?productID=10&userID=1&rating=5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/users - {\"email\":\"seller@ecom.com\",\"password\":\"Password\",\"name\":\"Seller User\",\"type\":\"seller\"}","service":"request-logging"}
